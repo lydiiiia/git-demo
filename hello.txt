@@ -18,4 +18,4 @@ hello git, this is lydia!
 hello git, this is lydia!
 hello git, this is lydia!
 hello git, this is lydia!
-this is hot-fix branch!
+this is master branch!
