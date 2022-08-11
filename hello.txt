@@ -19,3 +19,4 @@ hello git, this is lydia!
 hello git, this is lydia!
 hello git, this is lydia!
 this is master branch!
+this is hot-fix branch! test for merge
